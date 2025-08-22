@@ -1,2 +1,0 @@
-# Aip
-Baseaip.zip
